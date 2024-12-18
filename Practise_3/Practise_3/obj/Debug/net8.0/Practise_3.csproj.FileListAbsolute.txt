@@ -1,0 +1,7 @@
+D:\Дз\Програмування\Practise_3\Practise_3\obj\Debug\net8.0\Practise_3.csproj.AssemblyReference.cache
+D:\Дз\Програмування\Practise_3\Practise_3\obj\Debug\net8.0\Practise_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Дз\Програмування\Practise_3\Practise_3\obj\Debug\net8.0\Practise_3.AssemblyInfoInputs.cache
+D:\Дз\Програмування\Practise_3\Practise_3\obj\Debug\net8.0\Practise_3.AssemblyInfo.cs
+D:\Дз\Програмування\Practise_3\Practise_3\obj\Debug\net8.0\Practise_3.csproj.CoreCompileInputs.cache
+D:\Дз\Програмування\Practise_3\Practise_3\obj\Debug\net8.0\Practise_3.MvcApplicationPartsAssemblyInfo.cs
+D:\Дз\Програмування\Practise_3\Practise_3\obj\Debug\net8.0\Practise_3.MvcApplicationPartsAssemblyInfo.cache
